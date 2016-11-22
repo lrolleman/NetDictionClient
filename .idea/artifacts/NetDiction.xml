@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="NetDiction">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetDiction</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="NetDiction" />
+        <option name="vendor" value="Lyle" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="NetDictionClient.jar">
+        <element id="module-output" name="NetDictionClient" />
+        <element id="extracted-dir" path="$PROJECT_DIR$/../NetDictionProtocol/out/artifacts/NetDictionProtocol_jar/NetDictionProtocol.jar" path-in-jar="/" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NetDictionProtocol">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../NetDictionProtocol/out/artifacts/NetDictionProtocol_jar/NetDictionProtocol.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
